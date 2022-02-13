@@ -28,6 +28,7 @@ Studying computer science will help you to develop problem-solving, critical thi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Name: Atif Shahid Qureshi
 SID-13232 
+
 Why do you study computer science?
 I Atif Shahid Qureshi doing MCS from PAF-KIET and working in cargo operations at Gerry Dnata. I am keen to solve problems by using my I.T skills at my workplace, this motivated me to switch in the field of Computer science and to enhance my skills.
 
