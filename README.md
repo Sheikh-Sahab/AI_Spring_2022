@@ -36,3 +36,20 @@ Why do you study Artificial Intelligence?
 If AI was an elective course rather than core course, I would prefer to select AI because it helps to solve real world complex problems which cannot be solve by traditional programming or very tedious to solve. Studying A.I increase many opportunities to apply in real life scenarios. A.I technologies like chatbots, Google assistant, self-driving cars are really very helpful for the society and improving users’ experience.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Student Name: Sarfraz Aslam
+Student ID: 64151
+
+My name is sarfraz Aslam Student of MCS from PAF-KIET
+and also doing job in a software house as Oracle system Analyst
+responsible for Analysis,development,implementaion and support Oracle
+applications.
+
+Why do you study Artificial intelligence?
+if AI was an elective course.
+
+Because Artificial Intelligence has seemingly endless
+pontential to improve and simpliy tasks commonly done by humans,
+including speech recognition,image processing,business process management,
+an even the diagnosis o disease.I already technically inclined 
+and have a background in software programming, i may want to consider
+a lucrative AI career and know about how to become AI engineer.
