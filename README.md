@@ -25,5 +25,13 @@ Traditional functional programming doesn’t offer solution to problems like ima
 why study computer science?
 Studying computer science will help you to develop problem-solving, critical thinking and complex analytical skills.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Atif Shahid Qureshi
+SID-13232 
 
+Why do you study computer science?
+I Atif Shahid Qureshi doing MCS from PAF-KIET and working in cargo operations at Gerry Dnata. I am keen to solve problems by using my I.T skills at my workplace, this motivated me to switch in the field of Computer science and to enhance my skills.
 
+Why do you study Artificial Intelligence?
+If AI was an elective course rather than core course, I would prefer to select AI because it helps to solve real world complex problems which cannot be solve by traditional programming or very tedious to solve. Studying A.I increase many opportunities to apply in real life scenarios. A.I technologies like chatbots, Google assistant, self-driving cars are really very helpful for the society and improving users’ experience.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
