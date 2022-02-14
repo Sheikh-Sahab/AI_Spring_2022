@@ -53,3 +53,15 @@ including speech recognition,image processing,business process management,
 an even the diagnosis o disease.I already technically inclined 
 and have a background in software programming, i may want to consider
 a lucrative AI career and know about how to become AI engineer.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Name: Kamran Raza
+ID: 63987
+
+Why do you study computer science?
+I am Kamran Raza enrolled in MCS Program at KIET. I wanted to study Computer science as I like solving problems using my technical and creative skills. I intially started my education in Commerce field but then I switched to Computer Science as it is what I like and enjoy working. In addition to that, it is also important for my career progression. Computer Science is a globle field and learning computer science will develop skills that are beneficial in any career for instance as Analytical and good at problem solving are essential skills now a days. 
+
+Why do you study Artificial Intelligence if AI was not a CORE course?
+Yes, I would still opt for this course due to my curiosity to learn about this subject and my interest in Big Data. I took BI elective last year as well. I am keen to learn patterns in dataset and how to analyse big data and drive business strategy using artificial intelligence. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
