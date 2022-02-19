@@ -69,9 +69,14 @@ Name: Khadija Hameed
 ID: 64174
 
 Why do you study computer science?
+I study computer science because i've always been fascinated by computers and programming too.
+I enjoy learning programming from the brginning so i chose computer field to build my career 
+and also as an educational perspective because computer has space for both collaborative work 
+and individual efforts.
 
 
+Why do you study Artificial Intelligence if AI was not a CORE course?
 
-Why do you study Artificial Intelligence?
-
-
+If Ai wasn't core I will choose AI as an elective because AI impact on society which is growing rapidly.
+AI is amazingly interesting study area and it already has a huge impact on people's daily lives, 
+AI make life easier for all of us in daily and to build career too.
