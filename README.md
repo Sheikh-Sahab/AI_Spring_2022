@@ -65,3 +65,13 @@ Why do you study Artificial Intelligence if AI was not a CORE course?
 Yes, I would still opt for this course due to my curiosity to learn about this subject and my interest in Big Data. I took BI elective last year as well. I am keen to learn patterns in dataset and how to analyse big data and drive business strategy using artificial intelligence. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Khadija Hameed
+ID: 64174
+
+Why do you study computer science?
+
+
+
+Why do you study Artificial Intelligence?
+
+
