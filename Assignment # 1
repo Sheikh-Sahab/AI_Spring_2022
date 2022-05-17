@@ -1,3 +1,22 @@
+Assignment 01 - Making Teams and GitHub Repository
+Due 10th Feb 2022 9:00am
+
+Aim:
+
+Create a GitHub repository so that each group member can display their contribution. Secondly this repository will act as a one point access to all your assignments and project submissions.  
+Task:
+
+    Get together in groups of 5 students. 
+    All members are to create a GitHub account if do not have one.
+    Group Leader (or any 1 member of the group) should create a GitHub repository by the name, "Ai266-spring22"
+    All members should be added to the repository as contributors.
+    Create a readme.md file with a table that mentions all the group members with their student ids.
+    Below the table each member adds a paragraph about themselves and commit it themselves on GitHub. 
+    Only the group leader submits the link to the GitHub repository on LMS.
+
+Reminder: All your future assignments and project submissions will be under this repository.
+
+
 My name is sarfraz Aslam Student of MCS from PAF-KIET
 and also doing job in a software house as Oracle system Analyst
 responsible for Analysis,development,implementaion and support Oracle
