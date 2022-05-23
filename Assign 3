@@ -1911,3 +1911,66 @@ Accuracy Score for Naive Bayes - Laplace Smoothing :  0.8515388888888888
 Process finished with exit code 0
 
 --------------------------------------------------------------------------------
+
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+from sklearn.model_selection import train_test_split, RepeatedKFold
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import KFold
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
+
+
+traindataf = pd.read_csv('C:\\Users\\YA\\Downloads\\TPS\\train.csv')
+print("*Raw Train Data*")
+pd.set_option('display.max_columns', None)
+print(traindataf.iloc[:,1:32])
+# Dropping string column f27
+dataf = traindataf.drop(['f_27'], axis = 1)
+print(dataf.head(10))
+# apply the dtype attribute
+result = dataf.dtypes
+print("---Data Types---")
+print(result)
+dataf[dataf < 0] = 0
+print("---Applied Data Cleaning---")
+print(dataf)
+print("Data Information")
+print( dataf.info())
+print("Null Data Information")
+print(dataf.isnull().sum())
+print("Describing Data")
+print(dataf.describe())
+print("Data Correlation")
+print(dataf.corr())
+
+# Creating the Naive Bayes Model
+X = dataf.iloc[:,1:700000]
+print("X values")
+print(X)
+Y = dataf.iloc[:,-1].values
+print("Y values")
+print(Y)
+
+
+# Import necessary modules
+from sklearn.datasets import load_iris
+
+# Loading data
+#irisData = traindataf
+
+
+# Split into training and test set
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size = 0.2, random_state=42)
+
+knn = KNeighborsClassifier(n_neighbors=7)
+
+knn.fit(X_train, y_train)
+
+# Calculate the accuracy of the model
+print(knn.score(X_test, y_test))
+
+
