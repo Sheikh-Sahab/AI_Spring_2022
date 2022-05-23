@@ -14,4 +14,4 @@ Class ID: 109214,           Semester: Spring-2022
 |     63987     |  Kamran Raza           |
 |     64151     |  Sarfraz Aslam         |
 |     13232     |  Atif Shahid Qureshi   |
- ---------------------------------------
+ ----------------------------------- ----
