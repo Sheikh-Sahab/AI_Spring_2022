@@ -27,7 +27,7 @@ result = pd.read_csv('C:\\Users\\kamran\\Downloads\\TPS Dataset\\sample_submissi
 
 missing_values_train = trainDF.isna().any().sum()
 print('Missing values in train data: {0}'.format(missing_values_train[missing_values_train > 0]))
-
+ 
 #checking for any missing values and then duplicates
 
 missing_values_test = test.isna().any().sum()
@@ -90,7 +90,7 @@ def load_model():
     reduce_lr = callbacks.ReduceLROnPlateau(
         monitor='val_loss', 
         factor=0.5,                # Factor by which the learning rate will be reduced
-        patience=5)                # Number of epochs with no improvement
+        patience=5)              # Number of epochs with no improvement
     
     model = keras.Sequential([
         layers.Dense(108, activation=ACTIVATION, input_shape=[X.shape[1]]),      
