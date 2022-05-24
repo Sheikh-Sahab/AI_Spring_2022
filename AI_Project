@@ -1,3 +1,4 @@
+#Model: Neural network 
 
 import os
 import random
