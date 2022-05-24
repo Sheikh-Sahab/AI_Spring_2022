@@ -146,4 +146,3 @@ print('Overall AUC: ', np.mean(scores))
 result['target'] = np.mean(test_predictions, axis=0)
 result.to_csv('submission.csv', index=False)
 result
-
